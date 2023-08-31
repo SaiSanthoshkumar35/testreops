@@ -1,2 +1,2 @@
 # testreops
-my test repostriy 
+my test repostriy my lift my rules
